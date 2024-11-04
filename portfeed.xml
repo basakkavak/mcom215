@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Welcome to The Port Grill at LSUS</title>
+        <link>https://www.lsus.edu/campus-life/the-port-grill</link>
+        <description>Weekly updates on LSUS's favorite spot to eat, meet, and enjoy campus life: The Port Grill!</description>
+        <language>en-us</language>
+
+        <!-- Introduction to The Port Grill -->
+        <item>
+            <title>Welcome to The Port Grill!</title>
+            <description>The Port Grill is LSUS’s very own cafeteria where students, staff, and faculty come together to enjoy delicious meals. Open daily with a menu that satisfies all tastes—whether you're in for a quick bite or a full meal. Join us for weekly specials and campus events!</description>
+            <pubDate>Mon, 01 Nov 2024 09:00:00 CST</pubDate>
+            <link>https://www.lsus.edu/campus-life/the-port-grill</link>
+        </item>
+
+        <!-- Fresh and Local: Our Mission -->
+        <item>
+            <title>Fresh and Local: Our Mission</title>
+            <description>At The Port Grill, we’re committed to using fresh, local ingredients whenever possible. We’re here to bring you quality food with a taste of Louisiana! Stop by to see what’s new on the menu and experience a true community dining space right on campus.</description>
+            <pubDate>Mon, 08 Nov 2024 09:00:00 CST</pubDate>
+            <link>https://www.lsus.edu/campus-life/the-port-grill</link>
+        </item>
+
+        <!-- Menu Highlights This Week -->
+        <item>
+            <title>Menu Highlights: November 8-14</title>
+            <description>This week at The Port Grill, try our famous Cajun Chicken Alfredo and the crowd-favorite Po'boys. For vegetarians, we’ve got fresh salads and a rotating selection of pasta and rice bowls. Make sure to save room for our homemade peach cobbler!</description>
+            <pubDate>Mon, 08 Nov 2024 09:00:00 CST</pubDate>
+            <link>https://www.lsus.edu/campus-life/the-port-grill/menu</link>
+        </item>
+
+        <!-- Thanksgiving Community Lunch -->
+        <item>
+            <title>Thanksgiving Community Lunch</title>
+            <description>Join us for a special Thanksgiving Community Lunch on November 22nd! We’ll be serving all the traditional favorites like turkey, stuffing, mashed potatoes, and pumpkin pie. Bring your friends, meet new people, and enjoy the holiday spirit at The Port Grill.</description>
+            <pubDate>Mon, 15 Nov 2024 09:00:00 CST</pubDate>
+            <link>https://www.lsus.edu/campus-life/the-port-grill/events</link>
+        </item>
+
+        <!-- New Seasonal Drinks Available! -->
+        <item>
+            <title>New Seasonal Drinks Have Arrived!</title>
+            <description>Warm up this season with our new lineup of seasonal drinks! Try the Pumpkin Spice Latte or Peppermint Mocha, perfect for cozying up before class. Available now at The Port Grill.</description>
+            <pubDate>Mon, 22 Nov 2024 09:00:00 CST</pubDate>
+            <link>https://www.lsus.edu/campus-life/the-port-grill</link>
+        </item>
+    </channel>
+</rss>
